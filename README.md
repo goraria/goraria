@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Helvetica&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Giang!;" />
 </h1>
-<h3 align="center">A Passionate Full Stack Developer from Vietnam</h3>
+<h2 align="center">A Passionate Full Stack Developer from Vietnam</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=goraria&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -43,8 +43,8 @@
 
 ## 🧩 My GitHub Stats
 
-<a href="http://www.github.com/goraria"><img src="https://github-readme-stats.vercel.app/api?username=goraria&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="goraria's GitHub stats" /></a>
+<a href="http://www.github.com/goraria"><img src="https://github-readme-stats.vercel.app/api?username=goraria&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=6366f1&bg_color=21222c&hide_border=true&show_icons=true" alt="goraria's GitHub stats" /></a>
 
-<a href="http://www.github.com/goraria"><img src="https://github-readme-streak-stats.herokuapp.com/?user=goraria&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/goraria"><img src="https://github-readme-streak-stats.herokuapp.com/?user=goraria&stroke=ffffff&background=21222c&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/goraria" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goraria&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/goraria" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goraria&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=6366f1&bg_color=21222c&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
