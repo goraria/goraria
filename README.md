@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&color=ec4899&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Giang!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&color=ec4899&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Giang!;+Also+Known+As+Goraria" />
 </h1>
 <h2 align="center">A Passionate Full Stack Developer from Vietnam</h3>
 
