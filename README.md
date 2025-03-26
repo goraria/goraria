@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on Flutter Projects
 - 🤔 I’m looking for help with Web Services
 - 💬 Ask me about React
-- 📫 Reach me at: [truonggiangpham.workspaces@gmail.com]
+- 📫 Reach me at: [truonggiangpham.workspaces@gmail.com] or [gorariagroup@gmail.com]
 - 😄 Pronouns: Goraria
 - 💼 Check out my work: [Projects](https://github.com/goraria/goraria)
 - 📚 Github : [goraria](https://github.com/goraria)
